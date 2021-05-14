@@ -9,3 +9,5 @@ Soft Pink one is for you Loran#9999
 Bright Red is for you Server_Noob#0365
 
 WARNING!!! COPPER.SWMTHEME IS BROKEN. DO NOT USE COPPER.SWMTHEME UNTIL I FIX
+
+I think there is a limit on how many swmthemes you can have.
