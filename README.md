@@ -3,7 +3,6 @@ More themes for Script-Ware Mac.
 To insert the themes, Simply go to Finder>Documents>Script-Ware>Themes>Paste the theme.
 The .swmtheme is the themes.
 Currently there are 10 themes. 8 themes got added today! DOWNLOAD THE WORKING SCRIPT-WARE MAC THEMES.ZIP TO GET EVERY SINGLE SWMTHEME MADE BY THELMGN, TRILL AND MYSELF. JUST UNZIP IT AND COPY EVERYTHING IN THE FOLDER. THEN PASTE IT INTO THE THEMES FOLDER IN SCRIPT-WARE!
-https://paypal.me/bruhbot8553
 
 Soft Pink one is for you Loran#9999
 
