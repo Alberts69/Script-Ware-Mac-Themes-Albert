@@ -4,3 +4,5 @@ To insert the themes, Simply go to Finder>Documents>Script-Ware>Themes>Paste the
 The .swmtheme is the themes.
 Currently there is 7 themes. 5 themes got added
 https://paypal.me/bruhbot8553
+
+Soft Pink one is for you Loran#9999
