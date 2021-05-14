@@ -10,4 +10,4 @@ Bright Red is for you Server_Noob#0365
 
 WARNING!!! COPPER.SWMTHEME IS BROKEN. DO NOT USE COPPER.SWMTHEME UNTIL I FIX
 
-I think there is a limit on how many swmthemes you can have.
+I think there is a limit on how many swmthemes you can have. If you figure out the max amount of swmthemes you can have in the themes folder please DM me Server_Pro#0869
