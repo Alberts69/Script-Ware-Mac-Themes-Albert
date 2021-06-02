@@ -11,3 +11,5 @@ I think there is a limit on how many swmthemes you can have at once.
 I'll be making more in a few weeks.
 
 The code is made by theLMGN and I just changed some stuff up to change the colors.
+
+Discord.gg/scriptware - official Script-Ware server
